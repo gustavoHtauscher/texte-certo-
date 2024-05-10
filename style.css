@@ -29,7 +29,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #ffffff;
+    color: #000000;
 }
 
 main {
@@ -41,7 +41,7 @@ section {
 }
 
 footer {
-    background-color: #000000;
+    background-color: #ffffff;
     padding: 10px;
     text-align: center;
 }
