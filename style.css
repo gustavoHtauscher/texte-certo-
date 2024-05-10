@@ -11,7 +11,9 @@ header {
 }
 
 header img {
-    width: 200px; /* ajuste conforme necessário */
+    width: 500px;
+    height: 350;
+
 }
 
 nav ul {
